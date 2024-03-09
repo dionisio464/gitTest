@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.wordBreak": "keepAll",
+    "debug.allowBreakpointsEverywhere": false,
+    "debug.focusEditorOnBreak": false,
+    "debug.focusWindowOnBreak": false
+}
